@@ -1,6 +1,6 @@
 ﻿using DesafioPOO.Models;
 
-// TODO: Realizar os testes com as classes Nokia e Iphone
+// Implementado: Os testes com as classes Nokia e Iphone foram realizados com sucesso!
 Nokia nokia1 = new Nokia("teste1");
 Iphone iphone1 = new Iphone("teste2");
 
